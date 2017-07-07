@@ -13,7 +13,7 @@ With this appltication it will work. You only need a ProtonMail Account…
 ## If you want to download the applications…
 …choose one of these links
 
-🖥 <a href="http://marc.mitzscherling.bplaced.com/downloads/protonmail/ProtonMail-Client v 3.0.2.dmg/">macOS</a>
+🖥 <a href="http://marc.mitzscherling.bplaced.com/downloads/protonmail/macos.dmg/">macOS</a>
 
-💻 <a href="http://marc.mitzscherling.bplaced.com/downloads/protonmail/ProtonMail - Log in-win32-x64.zip/">Windows</a>
+💻 <a href="http://marc.mitzscherling.bplaced.com/downloads/protonmail/windows.zip/">Windows</a>
 
